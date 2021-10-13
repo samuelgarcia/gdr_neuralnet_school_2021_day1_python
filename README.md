@@ -1,0 +1,1 @@
+# gdr_neuralnet_school_2021_day1_python
